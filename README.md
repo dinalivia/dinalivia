@@ -8,8 +8,6 @@ I’m also part of Cumbuca Dev — a community-driven initiative that empowers u
 
 People > Tech 💜
 
-Bonus: I'm a dedicated cat lover who believes a bit of feline inspiration can make any team purr with success.
-
 ### ![globe-icon][] Find me around the web
 
 * ![linkedin-icon][] [dinalivia][linkedin]
